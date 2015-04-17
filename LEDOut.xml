@@ -10,7 +10,7 @@
       <block type="robot_delay" id="44" inline="true">
         <value name="DELAY">
           <block type="math_number" id="51">
-            <field name="NUM">500</field>
+            <field name="NUM">1000</field>
           </block>
         </value>
         <next>
@@ -25,7 +25,7 @@
               <block type="robot_delay" id="60" inline="true">
                 <value name="DELAY">
                   <block type="math_number" id="61">
-                    <field name="NUM">500</field>
+                    <field name="NUM">1000</field>
                   </block>
                 </value>
                 <next>
@@ -40,7 +40,7 @@
                       <block type="robot_delay" id="62" inline="true">
                         <value name="DELAY">
                           <block type="math_number" id="63">
-                            <field name="NUM">500</field>
+                            <field name="NUM">1000</field>
                           </block>
                         </value>
                         <next>
@@ -55,7 +55,7 @@
                               <block type="robot_delay" id="64" inline="true">
                                 <value name="DELAY">
                                   <block type="math_number" id="65">
-                                    <field name="NUM">500</field>
+                                    <field name="NUM">1000</field>
                                   </block>
                                 </value>
                                 <next>
@@ -70,7 +70,7 @@
                                       <block type="robot_delay" id="66" inline="true">
                                         <value name="DELAY">
                                           <block type="math_number" id="67">
-                                            <field name="NUM">500</field>
+                                            <field name="NUM">1000</field>
                                           </block>
                                         </value>
                                       </block>
